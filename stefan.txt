@@ -4,3 +4,5 @@ Naechste Zeile
 Noch eine Zeile mehr
 
 Add feature 1 part 1
+
+Add feature 1 part 2
