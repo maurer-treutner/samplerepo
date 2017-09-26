@@ -1,4 +1,2 @@
 Klaus ist da!
-new line
-another new line, added in eclipse
-new line
+Klaus wrote a new line to the file
