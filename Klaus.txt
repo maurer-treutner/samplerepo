@@ -1,2 +1,3 @@
 Klaus ist da!
 Klaus wrote a new line to the file
+Klaus added a 2nd line
