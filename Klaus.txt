@@ -2,3 +2,4 @@ Klaus ist da!
 new line
 another new line, added in eclipse
 new line
+new line
