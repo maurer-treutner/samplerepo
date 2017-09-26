@@ -2,3 +2,5 @@ Stefan Eickel
 Hello, Stefan!
 Naechste Zeile
 Noch eine Zeile mehr
+
+Add feature 1 part 1
