@@ -13,3 +13,4 @@ Add feature 1 part 4
 
 Add feature 2 part 1
 
+Add feature 2 part 2
